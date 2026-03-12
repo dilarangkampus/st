@@ -1,0 +1,49 @@
+! st terminal - Gruber Darker theme
+! Load with: xrdb -merge ~/.Xresources
+
+! Font configuration (Iosevka Nerd Font, size 12)
+st.font: Iosevka Nerd Font:size=12:antialias=true:autohint=true
+
+! Border/padding (matches kitty window_padding_width 10)
+st.borderpx: 10
+
+! Gruber Darker color scheme
+
+! foreground/background
+st.foreground: #e4e4ef
+st.background: #181818
+
+! cursor
+st.cursorColor: #ffdd33
+
+! black
+st.color0: #181818
+st.color8: #484848
+
+! red
+st.color1: #f43841
+st.color9: #ff4f58
+
+! green
+st.color2:  #73c936
+st.color10: #73c936
+
+! yellow
+st.color3:  #ffdd33
+st.color11: #ffdd33
+
+! blue
+st.color4:  #96a6c8
+st.color12: #96a6c8
+
+! magenta
+st.color5:  #9e95c7
+st.color13: #9e95c7
+
+! cyan
+st.color6:  #95a99f
+st.color14: #95a99f
+
+! white
+st.color7:  #e4e4ef
+st.color15: #f4f4ff
