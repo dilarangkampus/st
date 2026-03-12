@@ -1,46 +1,45 @@
-Xft.antialias:	1
-Xft.hinting:	1
-Xft.autohint:	0
-Xft.hintstyle:	hintslight
-Xft.rgba:       rgb
-Xft.lcdfilter:	lcddefault
+Xft.dpi:        96
+Xft.antialias:  1
+Xft.hinting:    1
+Xft.hintstyle:  hintmedium
 
 st.font:        Iosevka Nerd Font:style:regular:pixelsize=18
 st.borderpx:    15
 
-! OneDark Colorscheme for Isabel Rice
+! Gruber Darker Colorscheme
 
-*background: #14171c
-*foreground: #abb2bf
+st.foreground:  #e4e4ef
+st.background:  #181818
+st.cursorColor: #e4e4ef
 
 ! Black + DarkGrey
-*color0:  #181b21
-*color8:  #5c6370
+st.color0:      #2E3436
+st.color8:      #555753
 
 ! DarkRed + Red
-*color1:  #be5046
-*color9:  #e06c75
+st.color1:      #a40000
+st.color9:      #EF2929
 
 ! DarkGreen + Green
-*color2:  #81ae5f
-*color10: #98c379
+st.color2:      #4E9A06
+st.color10:     #8AE234
 
 ! DarkYellow + Yellow
-*color3:  #d19a66
-*color11: #e5c07b
+st.color3:      #C4A000
+st.color11:     #FCE94F
 
 ! DarkBlue + Blue
-*color4:  #4889be
-*color12: #61afef
+st.color4:      #3465A4
+st.color12:     #729FCF
 
 ! DarkMagenta + Magenta
-*color5:  #7560d3
-*color13: #8677cf
+st.color5:      #75507B
+st.color13:     #AD7FA8
 
-! DarkCyan + Cyan
-*color6:  #49919a
-*color14: #56b6c2
+! DarkOrange + Orange
+st.color6:      #ce5c00
+st.color14:     #fcaf3e
 
 ! LightGrey + White
-*color7:  #abb2bf
-*color15: #b8bfe5
+st.color7:      #babdb9
+st.color15:     #EEEEEC
