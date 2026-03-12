@@ -10,36 +10,36 @@ st.borderpx:    15
 
 st.foreground:  #e4e4ef
 st.background:  #181818
-st.cursorColor: #e4e4ef
+st.cursorColor: #ffdd33
 
-! Black + DarkGrey
-st.color0:      #2E3436
-st.color8:      #555753
+! Black
+st.color0:      #181818
+st.color8:      #484848
 
-! DarkRed + Red
-st.color1:      #a40000
-st.color9:      #EF2929
+! Red
+st.color1:      #f43841
+st.color9:      #ff4f58
 
-! DarkGreen + Green
-st.color2:      #4E9A06
-st.color10:     #8AE234
+! Green
+st.color2:      #73c936
+st.color10:     #73c936
 
-! DarkYellow + Yellow
-st.color3:      #C4A000
-st.color11:     #FCE94F
+! Yellow
+st.color3:      #ffdd33
+st.color11:     #ffdd33
 
-! DarkBlue + Blue
-st.color4:      #3465A4
-st.color12:     #729FCF
+! Blue
+st.color4:      #96a6c8
+st.color12:     #96a6c8
 
-! DarkMagenta + Magenta
-st.color5:      #75507B
-st.color13:     #AD7FA8
+! Magenta
+st.color5:      #9e95c7
+st.color13:     #9e95c7
 
-! DarkOrange + Orange
-st.color6:      #ce5c00
-st.color14:     #fcaf3e
+! Cyan
+st.color6:      #95a99f
+st.color14:     #95a99f
 
-! LightGrey + White
-st.color7:      #babdb9
-st.color15:     #EEEEEC
+! White
+st.color7:      #e4e4ef
+st.color15:     #f4f4ff
